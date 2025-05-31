@@ -1,0 +1,42 @@
+Experiment # 1
+
+Family Clinic - Examination Room between Robot and Patient
+
+Robot: Good morning, Bajwa. What brings you in today?
+
+Patient: Hi Doctor. I've had this persistent headache for about five days now.
+
+Robot: I see. Can you describe the pain for me? Is it sharp or dull?
+
+Patient: It's a constant dull ache, mostly around my temples. Sometimes it throbs.
+
+Robot: Any nausea or sensitivity to light?
+
+Patient: No nausea, but bright lights do make it worse.
+
+Robot: How's your sleep been lately?
+
+Patient: Not great actually. I've been stressed about work deadlines.
+
+Robot: That could be contributing. Let me check your blood pressure first.
+Your BP is slightly elevated - 135 over 85.
+
+Patient: Is that serious?
+
+Robot: Not dangerously high, but worth monitoring. I recommend:
+1. Daily 20-minute walks
+2. Limit screen time before bed
+3. Try this headache diary [hands patient form]
+4. Simple pain relievers when needed
+
+Patient: Should I be worried about something serious?
+
+Robot: Based on what you've described, this appears tension-related. But if you develop blurred vision, vomiting, or numbness, come back immediately.
+
+Patient: Okay, that's reassuring. How long before I should see improvement?
+
+Robot: Try these changes for 7-10 days. If no improvement, we'll consider further tests. Schedule a follow-up for next Friday?
+
+Patient: Yes please. Thank you Doctor.
+
+Robot: You're welcome. Take care of yourself, Bajwa.
