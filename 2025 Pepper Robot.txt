@@ -1,0 +1,59 @@
+Human: Hi Pepper! Nice to meet you!
+Robot: Nice to meet you too!
+Human: Tell me more about you.
+Robot: I am a robot dessignated to help people get smarter with the way of living.
+Human: You're part of the modularity, yes?
+Robot: Yes, I am.
+Human: Tell me more about modularity.
+Robot: Modularity is a smart home designated by mass product by 2030.
+Human: What is a smart home?
+Robot: First, it means energy efficient house produces more energy than it consumes. Secondly, it means that it is multifunctional, which means that the same space can be used in the same time as an office and as a sleeping place, it also has robots like me. I can help a lot of repetitive tasks which is not productive for humans
+Human: What is your role in this thing?
+Robot: I am an artificial intelligence human companion, I hope i get more free time to invest in your hobbies.
+Human: Yeah, now is much more clear, thank you very much!
+
+
+Interviu1
+H: Hi, Nao! Nice to meet you!
+N: Nice to meet you too! What's your name?
+H: My name is Mustafa.
+N: How can I help you?
+
+
+REDMINE
+H: Right now I'm working with Redmine can you tell me more about it?
+N: Redmine is an open-source project management and issue tracking tool that helps teams plan, manage, and collaborate on projects. It’s highly flexible, allowing users to track tasks, bugs, and features, and is commonly used in software development but can be adapted for any kind of project.
+H: How do I create a project in Redmine?
+N: Go to the "Projects" tab, click "New Project," and fill in the necessary details (name, description, visibility).
+H: How do I add an issue in a project?
+N: Inside the project, click "New Issue" and fill out the required fields (title, description, priority).
+H: How do I track project progress in Redmine?
+N: Use Gantt charts to visualize the project timeline and the status of each task.
+
+
+MEDIAWIKI
+H: How about Mediawiki, what's that?
+N: MediaWiki is an open-source wiki software platform that powers websites like Wikipedia. It’s used for creating and managing content collaboratively.
+H: How do I create a page in MediaWiki?
+N: To create a page, search for a title that doesn’t exist. Then, click on the red link to create the page, add content, and save it.
+H: How do I edit a page in MediaWiki?
+N: To edit a page, click the "Edit" tab at the top of the page. Make changes using wikitext or the visual editor, then save your changes.
+H: What features does MediaWiki offer?
+N: MediaWiki offers features like page creation and editing, user management, categories, templates, image/file uploads, references, and extensions for added functionality.
+
+
+
+BIM 7D
+H: Whats BIM?
+N: Building Information Modeling (BIM) is a dynamic process of creating information-rich models for the entire lifecycle of a construction project.
+H: What’s the difference between CAD and BIM?
+N: Computer-Aided Design focuses on creating 2D and 3D drawings, while BIM includes additional information such as material performance data, along with geometry.
+H: What are the benefits of using BIM?
+N: BIM helps reduce errors, improve collaboration between teams, save time and costs, and enables more efficient resource management.
+H: What type of information is included in a BIM model?
+N: A BIM model can include information about building geometry, materials, costs, schedule, energy performance, and much more.
+H: What role does BIM play in building maintenance?
+N: BIM can also be used during the operation and maintenance phase of a building, providing information about equipment maintenance, repairs, and necessary upgrades throughout the building’s life.
+H: What is CAD?
+N: Computer-Aided Design is the use of computer software to create, modify, analyze, or optimize designs. It’s commonly used in engineering, architecture, and product design.
+N: 
